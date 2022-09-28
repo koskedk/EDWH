@@ -1,0 +1,9 @@
+CBS,Case-based Surveillance
+CRS,Client Registry Services
+HTS,HIV Testing Services
+MGS,Migration Services
+MNCH,MNCH Services
+MTS,Metrics Services
+NDWH,Care and Treatment
+PREP,PREP Services
+PSMART,PSMART
